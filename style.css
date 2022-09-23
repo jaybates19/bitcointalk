@@ -292,8 +292,10 @@ ul[role="list"] {
 
 .thread-info-bg {
     padding: 1px;
-	border: 1px solid #696969;
-	background-color: #FFFFFF;
+    border-top: 1px solid #696969;
+    border-left: 1px solid #696969;
+    border-right: 1px solid #696969;
+    background-color: #FFFFFF;
 }
 
 .thread-info {
